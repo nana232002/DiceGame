@@ -1,0 +1,41 @@
+.contain{
+    height: 20vw;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    position: relative;
+    justify-content:center;
+    top:10vh;
+    align-items: center;
+    gap: 20px;
+   
+}
+.playerSum{
+display: flex;
+
+}
+.player{
+    font-size: xx-large;
+    color: aliceblue;
+    font-weight: bolder;
+}
+.currentTarget{
+    font-size: large;
+    color: aliceblue;
+    font-weight: bolder;
+} 
+p{
+    font-size: large;
+    color: aliceblue;
+    font-weight: bolder;
+}
+.sum{
+    font-size: xx-large;
+    color: aliceblue;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+}
+.div{
+    /* gap :10px; */
+}
